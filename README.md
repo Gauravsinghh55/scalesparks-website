@@ -48,4 +48,7 @@ For any queries or suggestions, feel free to reach out at **https://scalesparks.
 
 ---
 Thank you for visiting ScaleSparks!
+##screenshorts
+
+![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/9abe47d4c07ed72aee2b1e2c27ac6117c394e5b2/Screenshot%202025-03-11%20103242.png)
 
