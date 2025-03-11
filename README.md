@@ -48,7 +48,8 @@ For any queries or suggestions, feel free to reach out at **https://scalesparks.
 
 ---
 Thank you for visiting ScaleSparks!
-##screenshorts
+
+## screenshorts
 
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/9abe47d4c07ed72aee2b1e2c27ac6117c394e5b2/Screenshot%202025-03-11%20103242.png)
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/419538835c87e3d6d7d2afb80bb7b7c10ceb3a5b/Screenshot%202025-03-11%20103255.png)
@@ -57,3 +58,7 @@ Thank you for visiting ScaleSparks!
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/354a3e06a4911aaa0afcaeb92d531894dfdbb251/Screenshot%202025-03-11%20103345.png)
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/2993adba980565656c1ed3e80de188d2475515a9/Screenshot%202025-03-11%20103357.png)
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/fdb5577c322e239479f0bfe4576e5a5ec18b1bd4/Screenshot%202025-03-11%20103405.png)
+
+
+---
+Thank you for visiting ScaleSparks!
