@@ -55,5 +55,5 @@ Thank you for visiting ScaleSparks!
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/ab6cf332ff1540290195330a02db3cace16faf15/Screenshot%202025-03-11%20103312.png)
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/b53e9cc2e5c70cccb221bd30c1df20b59d49a84c/Screenshot%202025-03-11%20103334.png)
 ![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/354a3e06a4911aaa0afcaeb92d531894dfdbb251/Screenshot%202025-03-11%20103345.png)
-![image alt]()
+![image alt](https://github.com/Gauravsinghh55/scalesparks-website/blob/2993adba980565656c1ed3e80de188d2475515a9/Screenshot%202025-03-11%20103357.png)
 ![image alt]()
